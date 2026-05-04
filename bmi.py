@@ -15,4 +15,4 @@ def calculate_bmi(height,weight):
        print("Overweight")
        return 1
 
-    calculate_bmi(height=57, weight=1.73)
+    #calculate_bmi(height=57, weight=1.73)
